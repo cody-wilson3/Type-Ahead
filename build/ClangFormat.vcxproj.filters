@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\build\CMakeFiles\20d830865bb1af702ae0b56b0b5b1f23\ClangFormat.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\build\CMakeFiles\ClangFormat" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{ABBD966E-68A0-39AF-8F2F-84C2FF7F9163}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^C:\USERS\CODYW\ONEDRIVE\DESKTOP\CS3460-C++\ASSIGNMENT5\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/CodyW/OneDrive/Desktop/CS3460-C++/Assignment5 -BC:/Users/CodyW/OneDrive/Desktop/CS3460-C++/Assignment5/build --check-stamp-file C:/Users/CodyW/OneDrive/Desktop/CS3460-C++/Assignment5/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

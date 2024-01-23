@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/CodyW/OneDrive/Desktop/CS3460-C++/Assignment5/build/_deps/googletest-src/googlemock/CMakeLists.txt
+  gtest-all.cc
+  gmock-all.cc
+  gmock_main.cc
+  Generating Code...
+  gmock_main.vcxproj -> C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\build\lib\Debug\gmock_main.lib

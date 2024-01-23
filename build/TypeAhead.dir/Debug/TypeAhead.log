@@ -1,0 +1,12 @@
+﻿  Building Custom Rule C:/Users/CodyW/OneDrive/Desktop/CS3460-C++/Assignment5/CMakeLists.txt
+  WordTree.cpp
+  main.cpp
+C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\main.cpp(32,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\main.cpp(36,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\main.cpp(48,139): warning C4244: 'argument': conversion from 'int' to 'uint8_t', possible loss of data
+C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\main.cpp(59,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\main.cpp(73,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\main.cpp(82,135): warning C4244: 'argument': conversion from 'int' to 'uint8_t', possible loss of data
+C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\main.cpp(93,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  TypeAhead.vcxproj -> C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\build\Debug\TypeAhead.exe

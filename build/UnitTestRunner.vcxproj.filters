@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\WordTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\TestWordTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\WordTree.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{6AC80DE8-8837-3078-A2DB-553B1D858E9D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FB066AF0-15B2-31E9-9362-C27E9BA15D2F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

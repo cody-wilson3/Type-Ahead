@@ -1,0 +1,20 @@
+^C:\USERS\CODYW\ONEDRIVE\DESKTOP\CS3460-C++\ASSIGNMENT5\BUILD\CMAKEFILES\20D830865BB1AF702AE0B56B0B5B1F23\CLANGFORMAT.RULE
+setlocal
+"C:\Program Files\LLVM\bin\clang-format.exe" -i -style=file C:/Users/CodyW/OneDrive/Desktop/CS3460-C++/Assignment5/WordTree.hpp C:/Users/CodyW/OneDrive/Desktop/CS3460-C++/Assignment5/WordTree.cpp C:/Users/CodyW/OneDrive/Desktop/CS3460-C++/Assignment5/TestWordTree.cpp C:/Users/CodyW/OneDrive/Desktop/CS3460-C++/Assignment5/main.cpp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\CODYW\ONEDRIVE\DESKTOP\CS3460-C++\ASSIGNMENT5\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/CodyW/OneDrive/Desktop/CS3460-C++/Assignment5 -BC:/Users/CodyW/OneDrive/Desktop/CS3460-C++/Assignment5/build --check-stamp-file C:/Users/CodyW/OneDrive/Desktop/CS3460-C++/Assignment5/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

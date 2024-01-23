@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\build\_deps\googletest-subbuild\CMakeFiles\351078669ffcf64fd5c5fde398ae30ac\googletest-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\build\_deps\googletest-subbuild\CMakeFiles\351078669ffcf64fd5c5fde398ae30ac\googletest-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\build\_deps\googletest-subbuild\CMakeFiles\351078669ffcf64fd5c5fde398ae30ac\googletest-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\build\_deps\googletest-subbuild\CMakeFiles\351078669ffcf64fd5c5fde398ae30ac\googletest-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\build\_deps\googletest-subbuild\CMakeFiles\351078669ffcf64fd5c5fde398ae30ac\googletest-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\build\_deps\googletest-subbuild\CMakeFiles\351078669ffcf64fd5c5fde398ae30ac\googletest-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\build\_deps\googletest-subbuild\CMakeFiles\351078669ffcf64fd5c5fde398ae30ac\googletest-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\build\_deps\googletest-subbuild\CMakeFiles\351078669ffcf64fd5c5fde398ae30ac\googletest-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\build\_deps\googletest-subbuild\CMakeFiles\c8375e12d84dcdaef7aae1ada615f7c9\googletest-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\build\_deps\googletest-subbuild\CMakeFiles\fe41e28a40ef8e3cb17e66bc94bca6e5\googletest-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\build\_deps\googletest-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\CodyW\OneDrive\Desktop\CS3460-C++\Assignment5\build\_deps\googletest-subbuild\CMakeFiles\googletest-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E7C05CEB-456D-3084-BDD4-5751E1A1C39B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
